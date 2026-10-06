@@ -1,12 +1,19 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Hsu;Bill Chih-Hsiung;;Dr.;
-FN:徐志雄 博士 Bill Hsu
-ORG:Carewell 怡東顧問
-TITLE:營運總監 Operation Director
-TEL;TYPE=CELL:+886983987023
-TEL;TYPE=WORK:+886227130166
-EMAIL;TYPE=WORK:bill.hsu@carewell.com.tw
-URL:https://www.carewell.com.tw
-NOTE:Carewell 怡東顧問｜顧問事業部｜LINE: https://line.me/ti/p/sSo6vs6jOj
+PRODID:-//Carewell//Bill Hsu Digital Business Card//ZH-TW
+N:徐;志雄;;;
+FN:徐志雄
+NICKNAME:Bill Hsu
+X-ABShowAs:PERSON
+ORG:怡東人事顧問股份有限公司;顧問事業部
+TITLE:營運總監 / Operation Director
+item1.TEL;TYPE=CELL,VOICE,PREF:+886983987023
+item1.X-ABLabel:手機
+item2.TEL;TYPE=WORK,VOICE:+886227130166
+item2.X-ABLabel:公司
+item3.EMAIL;TYPE=INTERNET,WORK,PREF:bill.hsu@carewell.com.tw
+item3.X-ABLabel:工作
+item4.URL;TYPE=WORK:https://www.carewell.com.tw
+item4.X-ABLabel:Carewell
+NOTE:Bill Hsu｜Carewell 怡東顧問｜顧問事業部｜公司電話分機 228｜LINE: https://line.me/ti/p/sSo6vs6jOj
 END:VCARD
