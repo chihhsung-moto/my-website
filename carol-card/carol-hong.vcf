@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Carewell//Carol Hong Digital Business Card//ZH-TW
+N:洪;彣欣;;;
+FN:洪彣欣
+NICKNAME:Carol
+X-ABShowAs:PERSON
+ORG:怡東人事顧問股份有限公司
+TITLE:董事總經理 / 商周專欄作家
+item1.TEL;TYPE=WORK,VOICE,PREF:+886227130166
+item1.X-ABLabel:公司
+item2.EMAIL;TYPE=INTERNET,WORK,PREF:carol.hong@carewell.com.tw
+item2.X-ABLabel:工作
+item3.URL;TYPE=WORK:https://www.carewell.tw/
+item3.X-ABLabel:Carewell
+NOTE:公司電話分機 810
+END:VCARD
